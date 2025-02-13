@@ -1,1 +1,1 @@
-im doing automation test with mocha , mochawesome , validation json schema on resres.in
+im doing automation test with mocha , mochawesome , validation json schema on reqres.in
